@@ -2,8 +2,8 @@
 
 using namespace STATS;
       Statistic::Statistic(){
-        arr = new int[50];
-        _lenght = 50;
+        arr = new int[53];
+        _lenght = 53;
       }
 
       Statistic::Statistic(const int array[],int lenght){
