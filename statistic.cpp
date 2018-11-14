@@ -31,7 +31,7 @@ using namespace STATS;
           for(j=0;j<_lenght+array._lenght;j++)
             temp[i+j] = array.arr[j];
           _lenght = _lenght + array._lenght;
-          return Statistic(temp,_lenghts);
+          return Statistic(temp,_lenght);
       }
 
       Statistic& Statistic::operator =(const Statistic& array){
