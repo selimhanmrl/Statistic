@@ -1,5 +1,5 @@
 # Statistic
-Statistic operations
+Statistic operations:
 
 Median
 
